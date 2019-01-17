@@ -1,0 +1,6 @@
+{
+  "unbabel_api_url": "",
+  "unbabel_api_name": "fullstack-challenge",
+  "unbabel_api_key": "9db71b322d43a6ac0f681784ebdcc6409bb83359",
+  "postgres_url": "postgresql://postgres:1234@localhost:5432/challenge"
+}
